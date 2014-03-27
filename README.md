@@ -1,0 +1,1 @@
+Practice exercise for [Discover Meteor](http://discovermeteor.com)
